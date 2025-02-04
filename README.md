@@ -28,4 +28,6 @@ The dataset has the following information:
 * BMI: Body mass index (weight in kg/(height in m)^2)
 * DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history.
 * Age: Age in years
+
+
 [Go to the Jupyter Notebook file](https://github.com/LegateG/EDA_Pima/blob/main/diabetesEDA.ipynb)
